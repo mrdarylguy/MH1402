@@ -8,7 +8,7 @@ Repo for NTU module on C++ programming
 
 ## Compiler
 
-The **MinGw** compiler is used
+The ***MinGw*** compiler is used
 
 It is installed at the command line for M1 Mac using `arch -x86_64 brew install MinGW-w64`
 
